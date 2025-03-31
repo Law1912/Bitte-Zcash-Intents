@@ -5,8 +5,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BitteProtocol/chat-boilerplate.git
-   cd chat-boilerplate
+   git clone https://github.com/Law1912/Bitte-Zcash-Intents.git
+   cd Bitte-Zcash-Intents
    ```
 2. Install the dependencies:
 
