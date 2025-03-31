@@ -14,6 +14,8 @@
    pnpm install
    ```
 
+This may only work for an ubuntu system.
+
 ### Environment Variables
 
 Create a `.env` file in the root directory of your project and add the necessary environment keys. Here is an example of what your `.env` file might look like:
